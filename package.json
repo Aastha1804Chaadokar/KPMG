@@ -1,0 +1,12 @@
+{
+  "name": "dpiit-intelligent-procurement",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DPIIT AI/ML-Based Intelligent Procurement Management Solution",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  }
+}
+
